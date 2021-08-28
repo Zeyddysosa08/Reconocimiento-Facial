@@ -13,4 +13,4 @@ PASOS:
 3- les va a aparecer varias opciones tiene que darle al de elegir elemento
 4- luego se le va a abrir una ventana y se va a quedar donde dice componentes de .NET Framework
 5- le da a la parte donde dice examinar y elige la carpeta del proyecto, dentro busca la carpeta que dice bin>debug y hay estan las librerias debes de impotarlas
-y por ultimo darle a aceptar 
+y por ultimo darle a aceptar a todo lo que te aparezca y listo 
